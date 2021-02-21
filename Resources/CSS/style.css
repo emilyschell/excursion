@@ -20,7 +20,7 @@ h2 {
     color: white;
 }
 
-#description {
+.description {
     font-size: 21px;
     color: gray;
 }
@@ -30,7 +30,7 @@ a {
     font-size: 16px;
 }
 
-#copyright {
+.copyright {
     color: gray;
     text-align: right;
 }
